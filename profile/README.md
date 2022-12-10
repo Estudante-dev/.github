@@ -1,12 +1,6 @@
-## Hi there 👋
+# Olá Estudante 👋
+Bem-vindo a nossa conta no GitHub, por aqui você vai encontrar todos os nossos códigos feitos por professores de nossos cursos.
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Ainda não conhece a nossa escola?
+Para quem ainda não nos conhece somos uma escola de programação focada em fazer um ensino direto ao ponto com conteúdos em vídeos, eBooks, artigos e muitos mais de uma olhada no nosso site que irá encontrar todos nossos conteúdos!
+https://estudante.dev/
